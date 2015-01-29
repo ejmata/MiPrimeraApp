@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">Mi Primera App</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Escribe un mensaje</string>
+    <string name="button_send">Enviar</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_main">ActividadPrincipal</string>
 
 </resources>
